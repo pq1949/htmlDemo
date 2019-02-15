@@ -1,5 +1,5 @@
 # htmlDemo
 collect html snippet
 
-
-- [card](/animation/card.html)
+- [home](https://pq1949.github.io/htmlDemo/)
+- [card](https://pq1949.github.io/htmlDemo/animation/card.html)
